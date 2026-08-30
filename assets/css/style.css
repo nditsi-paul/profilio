@@ -425,9 +425,9 @@ footer ul{
 }
 
 @media (max-width: 480px) {
-  body{
+  /* body{
     letter-spacing: 1px;
-  }
+  } */
   /* .foot{
     flex-direction: column-reverse;
   } */
