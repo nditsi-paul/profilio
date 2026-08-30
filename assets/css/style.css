@@ -302,6 +302,7 @@ section ul{
 .stat li{
   padding-left: 3%;
   text-align: left;
+  margin-top: 4px;
 }
 
 .lvl{
